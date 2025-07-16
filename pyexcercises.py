@@ -1,5 +1,4 @@
 #Exercise 23: Create a simple countdown timer using a while loop.
-"""
 import time 
 def countdown_timer(seconds):
     while seconds >0:
@@ -232,7 +231,7 @@ while num!=0:
     reverse = reverse *10 + digit
     num = num//10
 print(f" the reversed number is { reverse }") 
-"""
+
 #Exercise 15: Print elements from a given
 #list present at odd index positions
 my_list =[10,20,30,50,70 ,60]
